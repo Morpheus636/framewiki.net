@@ -31,6 +31,8 @@ jobs:
           branch: wikibot
           base: main
           commit-message: Automated changes by Wikibot
+          committer: Wikibot <bot@framewiki.net>
+          author: Wikibot <bot@framewiki.net>
           title: Automated changes by Wikibot
           body: Updated formatting and citations. This pull request must be manually approved for deployment.
           labels: bot
