@@ -34,5 +34,5 @@ jobs:
           committer: Wikibot <bot@framewiki.net>
           author: Wikibot <bot@framewiki.net>
           title: Automated changes by Wikibot
-          body: Updated formatting and citations. This pull request must be manually approved for deployment.
+          body-path: "$GITHUB_WORKSPACE/pr.txt"
           labels: bot
