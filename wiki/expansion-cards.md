@@ -75,15 +75,15 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - DongleHider+ by [LeoDJ](https://github.com/LeoDJ). Available on [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 
 # References
-[^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636>
-[^2]: <https://github.com/FrameworkComputer/ExpansionCards>
+[^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636> [Archived](http://web.archive.org/web/20250110065152/https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636) 
+[^2]: <https://github.com/FrameworkComputer/ExpansionCards> [Archived](http://web.archive.org/web/20250110065946/https://github.com/FrameworkComputer/ExpansionCards) 
 [^3]: <https://community.frame.work/t/the-snack-drawer-v2-back-in-snacktion/18442>
-[^4]: <https://community.frame.work/t/lite-snack-drawer-simple-free-ready-for-snacks/8451>
-[^5]: <https://liberatedsystems.co.uk/newsletters/opencom_lte_cancellation/>
+[^4]: <https://community.frame.work/t/lite-snack-drawer-simple-free-ready-for-snacks/8451> [Archived](http://web.archive.org/web/20250110053820/https://community.frame.work/t/lite-snack-drawer-simple-free-ready-for-snacks/8451) 
+[^5]: <https://liberatedsystems.co.uk/newsletters/opencom_lte_cancellation/> [Archived](http://web.archive.org/web/20241227203213/https://liberatedsystems.co.uk/newsletters/opencom_lte_cancellation/) 
 [^6]: <https://community.frame.work/t/whats-inside-the-audio-expansion-card/37850/15>
-[^7]: <https://frame.work/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards>
-[^8]: <https://knowledgebase.frame.work/displayport-expansion-card-generations-BylqCuwDn>
+[^7]: <https://frame.work/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards> [Archived](http://web.archive.org/web/20250110053925/https://frame.work/blog/getting-ready-to-ship-13th-gen-and-announcing-power-saving-expansion-cards) 
+[^8]: <https://knowledgebase.frame.work/displayport-expansion-card-generations-BylqCuwDn> [Archived](http://web.archive.org/web/20250110053953/https://knowledgebase.frame.work/displayport-expansion-card-generations-BylqCuwDn) 
 [^9]: <https://knowledgebase.frame.work/hdmi-expansion-card-generations-Sk7AQKUv2>
-[^10]: <https://frame.work/blog/storage-expansion-cards>
-[^11]: <https://twitter.com/FrameworkPuter/status/1778081340564639855>
+[^10]: <https://frame.work/blog/storage-expansion-cards> [Archived](http://web.archive.org/web/20241227203213/https://frame.work/blog/storage-expansion-cards) 
+[^11]: <https://twitter.com/FrameworkPuter/status/1778081340564639855> [Archived](http://web.archive.org/web/20241227203213/https://twitter.com/FrameworkPuter/status/1778081340564639855) 
 [^12]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors>
