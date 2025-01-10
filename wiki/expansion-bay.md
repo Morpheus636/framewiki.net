@@ -16,5 +16,5 @@ The Expansion Bay interface uses a custom connector that includes power and sign
 
 # References
 [^2]: <https://frame.work/products/laptop16-diy-amd-7040?tab=specs>
-[^3]: <https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md> [Archived](http://web.archive.org/web/20250110065945/https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md) 
-[^4]: <https://frame.work/products/laptop16-diy-amd-7040?tab=modules> [Archived](http://web.archive.org/web/20250110053404/https://frame.work/products/laptop16-diy-amd-7040?tab=modules) 
+[^3]: <https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md> [Archived](http://web.archive.org/web/20250110065945/https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md) [Archived](http://web.archive.org/web/20250110065945/https://github.com/FrameworkComputer/ExpansionBay/blob/main/Electrical/README.md) 
+[^4]: <https://frame.work/products/laptop16-diy-amd-7040?tab=modules> [Archived](http://web.archive.org/web/20250110053404/https://frame.work/products/laptop16-diy-amd-7040?tab=modules) [Archived](http://web.archive.org/web/20250110053404/https://frame.work/products/laptop16-diy-amd-7040?tab=modules) 
