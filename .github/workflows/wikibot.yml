@@ -1,0 +1,16 @@
+name: Wikibot
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ] 
+
+jobs:
+  wikibot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Wikibot
+        uses: "framewiki/wikibot@morph/initial-development"
