@@ -12,9 +12,12 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Wikibot
-        id: bot
-        uses: "framewiki/wikibot@morph/initial-development"
+      #- name: Wikibot
+      #  id: bot
+      #  uses: "framewiki/wikibot@morph/initial-development"
+
+      - name: Test Change
+        run: echo "hello world" > test_file.txt
 
       - name: Check for Changes
         run: |
@@ -34,5 +37,5 @@ jobs:
           committer: Wikibot <bot@framewiki.net>
           author: Wikibot <bot@framewiki.net>
           title: Automated changes by Wikibot
-          body-path: "$GITHUB_WORKSPACE/pr.txt"
+          body-path: pr.txt
           labels: bot
