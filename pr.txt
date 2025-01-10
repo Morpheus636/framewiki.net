@@ -1,0 +1,2 @@
+- WARNING: Footnote in framework-laptop-13.md contains broken link to https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide. No archived copy is available.
+- WARNING: Footnote in framework-computer-inc.md contains broken link to https://www.sec.gov/education/capitalraising/building-blocks/accredited-investor. No archived copy is available.

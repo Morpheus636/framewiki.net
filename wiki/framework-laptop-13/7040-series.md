@@ -62,11 +62,11 @@ Framework sent AMD 7040 Series review units to media outlets [^3] including Just
 On release Framework Laptop 13 (AMD 7040) Series experienced battery cutoff on certain chargers as reported by community members [^13] [^14]. This issue was fixed with BIOS 3.05 [^15].
 
 # References
-[^1]: <https://frame.work/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series>
-[^2]: <https://community.frame.work/t/responded-amd-batch-1-guild/28693/467?u=morpheus636> --- 9 community members said they received shipping confirmation.
-[^3]: <https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live>
-[^4]: <https://www.youtube.com/watch?v=uwr14Q4C9gY>
-[^5]: <https://www.engadget.com/framework-brings-amd-mainboards-to-its-13-inch-laptop-140050567.html>
+[^1]: <https://frame.work/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series> [Archived](http://web.archive.org/web/20250110181421/https://frame.work/blog/framework-laptop-13-with-13th-gen-intel-core-and-amd-ryzen-7040-series) 
+[^2]: <https://community.frame.work/t/responded-amd-batch-1-guild/28693/467?u=morpheus636> --- 9 community members said they received shipping confirmation. [Archived](https://web.archive.org/web/20250110182414/https://community.frame.work/t/responded-amd-batch-1-guild/28693/467?u=morpheus636) 
+[^3]: <https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live> [Archived](http://web.archive.org/web/20241217191619/https://frame.work/blog/reviews-of-framework-laptop-13-amd-ryzen-7040-series-are-live) 
+[^4]: <https://www.youtube.com/watch?v=uwr14Q4C9gY> [Archived](http://web.archive.org/web/20250110180824/https://www.youtube.com/watch?v=uwr14Q4C9gY) 
+[^5]: <https://www.engadget.com/framework-brings-amd-mainboards-to-its-13-inch-laptop-140050567.html> [Archived](http://web.archive.org/web/20240529204046/https://www.engadget.com/framework-brings-amd-mainboards-to-its-13-inch-laptop-140050567.html) 
 [^6]: <https://www.tomshardware.com/news/amd-7040-framework-laptop-mainboard-transfer-performance-test-review>
 [^7]: <https://frame.work/products/laptop-13-gen-amd?tab=specs>
 [^8]: <https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html>
