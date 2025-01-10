@@ -52,11 +52,11 @@ Framework Laptop 13 (13th Gen Intel Core) supports M.2 2280-size NVMe SSDs. M.2 
 Framework "sent systems and Upgrade Kits to journalists across the tech industry."[^2] These upgrade kits contained every module required to go from a 11th Gen Framework Laptop 13 to the latest and greatest configuration. Reviewers included Andrew Freedman from Tom's Hardware [^13], Luke Larsen from Digital Trends [^14], and Brad Linder from Liliputing [^15].
 
 # References
-[^1]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop>
-[^2]: <https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live>
-[^3]: <https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you>
-[^4]: <https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html>
-[^5]: <https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html>
+[^1]: <https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop> [Archived](http://web.archive.org/web/20241129172047/https://frame.work/blog/introducing-the-new-and-upgraded-framework-laptop) 
+[^2]: <https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live> [Archived](http://web.archive.org/web/20241218123813/https://frame.work/blog/12th-gen-and-upgrade-kit-reviews-are-live) 
+[^3]: <https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you> [Archived](https://web.archive.org/web/20250110172904/https://frame.work/blog/now-in-stock-and-how-a-framework-laptop-gets-from-the-factory-to-you) 
+[^4]: <https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html> [Archived](http://web.archive.org/web/20240728044230/https://ark.intel.com/content/www/us/en/ark/products/132221/intel-core-i5-1240p-processor-12m-cache-up-to-4-40-ghz.html) 
+[^5]: <https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html> [Archived](http://web.archive.org/web/20240911100144/https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html) 
 [^6]: <https://ark.intel.com/content/www/us/en/ark/products/226253/intel-core-i7-1280p-processor-24m-cache-up-to-4-80-ghz.html>
 [^7]: <https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583>
 [^8]: <https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581>
