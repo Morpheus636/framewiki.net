@@ -24,10 +24,13 @@ jobs:
             echo "changes_detected=false" >> $GITHUB_ENV
           fi
       
-      - name: Commit and Push Changes to Branch
+      - name: Commit and Create Pull Request
         if: env.changes_detected == 'true'
-        run: |
-          git config user.name Wikibot
-          git config user.email github-actions@github.com
-          git commit -a -m "Changes by Wikibot" --no-verify
-          git push origin HEAD:wikibot
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: wikibot
+          base: main
+          commit-message: Automated changes by Wikibot
+          title: Automated changes by Wikibot
+          body: Updated formatting and citations. This pull request must be manually approved for deployment.
+          labels: bot
