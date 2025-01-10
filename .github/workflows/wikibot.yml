@@ -13,4 +13,13 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Wikibot
+        id: bot
         uses: "framewiki/wikibot@morph/initial-development"
+      
+      - name: Commit and Push Changes to Branch
+        if: steps.bot.outputs.files_changed == 'true'
+        run: |
+          git config user.name Wikibot
+          git config user.email github-actions@github.com
+          git commit -a -m "Changes by Wikibot" --no-verify
+          git push origin HEAD:wikibot
