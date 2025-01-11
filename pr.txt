@@ -1,0 +1,10 @@
+- Footnote in framework-computer-inc.md contains broken link to https://www.fastcompany.com/90722815/framework-innovative-laptop-easy-repair-electronics. No archived copy is available.
+- Footnote in framework-laptop-13.md contains broken link to https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide. No archived copy is available.
+- Footnote in framework-computer-inc.md contains broken link to https://www.sec.gov/education/capitalraising/building-blocks/accredited-investor. No archived copy is available.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061. No archived copy is available.
+- Footnote in 13th-gen.md contains broken link to https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html. No archived copy is available.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059. No archived copy is available.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583. No archived copy is available.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581. No archived copy is available.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579. No archived copy is available.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055. No archived copy is available.
