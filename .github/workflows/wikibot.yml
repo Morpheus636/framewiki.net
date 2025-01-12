@@ -15,6 +15,9 @@ jobs:
       - name: Wikibot
         id: bot
         uses: "framewiki/wikibot@morph/initial-development"
+        env:
+          ARCHIVE_ACCESS_KEY: "${{ secrets.ARCHIVE_ACCESS_KEY }}"
+          ARCHIVE_SECRET_KEY: "${{ secrets.ARCHIVE_SECRET_KEY }}"
 
       - name: Check for Changes
         run: |
