@@ -75,7 +75,7 @@ Framework published electrical and mechanical templates on their GitHub to enabl
 - DongleHider+ by [LeoDJ](https://github.com/LeoDJ). Available on [GitHub](https://github.com/LeoDJ/FW-EC-DongleHiderPlus)
 
 # References
-[^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636>
+[^1]: <https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636> [Archived](https://web.archive.org/web/20250110182342/https://community.frame.work/t/expansion-cards-compatible-with-other-devices/990/2?u=morpheus636) 
 [^2]: <https://github.com/FrameworkComputer/ExpansionCards>
 [^3]: <https://community.frame.work/t/the-snack-drawer-v2-back-in-snacktion/18442>
 [^4]: <https://community.frame.work/t/lite-snack-drawer-simple-free-ready-for-snacks/8451>

@@ -51,5 +51,5 @@ If you find that the driver bundle hangs or that Windows freezes while installin
 8. Either install one of the stable driver versions or keep the Framework drivers.
 
 # References
-[^1]: <https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567>
-[^2]: <https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567/3>
+[^1]: <https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567> [Archived](https://web.archive.org/web/20241211202045/https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567) 
+[^2]: <https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567/3> [Archived](http://web.archive.org/web/20250111221459/https://community.frame.work/t/frwk16-amd-software-adrenalin-edition-24-9-1-issues/58567/3) 

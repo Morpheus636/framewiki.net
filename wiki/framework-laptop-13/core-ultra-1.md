@@ -52,10 +52,10 @@ Framework Laptop 13 (Intel Core Ultra Series 1) supports M.2 2280-size NVMe SSDs
 {% include wip.html %}
 
 # References
-[^1]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors>
-[^2]: <https://ark.intel.com/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html>
-[^3]: <https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz.html>
-[^4]: <https://ark.intel.com/content/www/us/en/ark/products/236851/intel-core-ultra-7-processor-165h-24m-cache-up-to-5-00-ghz.html>
+[^1]: <https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors> [Archived](http://web.archive.org/web/20250111213725/https://frame.work/blog/introducing-the-new-framework-laptop-13-with-intel-core-ultra-series-1-processors) 
+[^2]: <https://ark.intel.com/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html> [Archived](https://web.archive.org/save/https://ark.intel.com/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html) 
+[^3]: <https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz.html> [Archived](https://web.archive.org/save/https://ark.intel.com/content/www/us/en/ark/products/236847/intel-core-ultra-7-processor-155h-24m-cache-up-to-4-80-ghz.html) 
+[^4]: <https://ark.intel.com/content/www/us/en/ark/products/236851/intel-core-ultra-7-processor-165h-24m-cache-up-to-5-00-ghz.html> [Archived](https://web.archive.org/save/https://ark.intel.com/content/www/us/en/ark/products/236851/intel-core-ultra-7-processor-165h-24m-cache-up-to-5-00-ghz.html) 
 [^5]: <https://tpucdn.com/cpu-specs/images/connectivity/intel-mobile-mtl-h-u.png>
 [^6]: <https://frame.work/products/laptop13-intel-ultra-1?tab=specs>
 [^7]: <https://frame.work/blog/reviews-are-live-of-intel-core-ultra-series-1-and-the-new-2-8k-display>
