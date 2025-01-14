@@ -1,0 +1,15 @@
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061. No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.notebookcheck.net/Intel-Raptor-Lake-P-Review-Debut-for-the-Core-i7-1360P.688425.0.html. No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059. No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055. No archived copy could be located.
+- Footnote in 11th-gen.md contains https://ark.intel.com/content/www/us/en/ark/products/208664/intel-core-i7-1185g7-processor-12m-cache-up-to-4-80-ghz-with-ipu.html, for which no archive is available and none could be created: Wayback Machine reported error:no-access
+- Footnote in 7040-series.md contains broken link to https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-5-7640u.html. No archived copy could be located.
+- Footnote in 7040-series.md contains broken link to https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html. No archived copy could be located.
+- Footnote in 12th-gen.md contains https://ark.intel.com/content/www/us/en/ark/products/226254/intel-core-i7-1260p-processor-18m-cache-up-to-4-70-ghz.html, for which no archive is available and none could be created: Wayback Machine reported error:no-access
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583. No archived copy could be located.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581. No archived copy could be located.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579. No archived copy could be located.
+- Footnote in framework-laptop-13.md contains broken link to https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide. No archived copy could be located.
+- Footnote in framework-laptop-16.md contains broken link to https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840hs.html. No archived copy could be located.
+- Footnote in framework-laptop-16.md contains broken link to https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-9-7940hs.html. No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.notebookcheck.net/Core-i7-1370P-performance-debut-Framework-Laptop-13-5-13th-Gen-Intel-review.714563.0.html. No archived copy could be located.
