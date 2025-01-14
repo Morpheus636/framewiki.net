@@ -1,0 +1,10 @@
+- Footnote in framework-laptop-13.md contains broken link to https://guides.frame.work/Guide/Framework+Laptop+13+DIY+Edition+Quick+Start+Guide (HTTP Status Code: 404). No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1340p.c3061 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1360p.c3059 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in 13th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1370p.c3055 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in 7040-series.md contains broken link to https://www.amd.com/en/products/processors/laptop/ryzen/7000-series/amd-ryzen-7-7840u.html. No archived copy could be located.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i5-1240p.c2583 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1260p.c2581 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in 12th-gen.md contains broken link to https://www.techpowerup.com/cpu-specs/core-i7-1280p.c2579 (HTTP Status Code: 403). No archived copy could be located.
+- Footnote in core-ultra-1.md contains link to https://ark.intel.com/content/www/us/en/ark/products/236848/intel-core-ultra-5-processor-125h-18m-cache-up-to-4-50-ghz.html, for which no archive is available and none could be created: Wayback Machine reported error:no-access
+- Footnote in 11th-gen.md contains link to https://ark.intel.com/content/www/us/en/ark/products/208658/intel-core-i5-1135g7-processor-8m-cache-up-to-4-20-ghz.html, for which no archive is available and none could be created: Wayback Machine reported error:no-access
