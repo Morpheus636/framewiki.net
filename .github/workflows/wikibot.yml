@@ -14,7 +14,7 @@ jobs:
 
       - name: Wikibot
         id: bot
-        uses: "framewiki/wikibot@morph/initial-development"
+        uses: "framewiki/wikibot@main"
         env:
           ARCHIVE_ACCESS_KEY: "${{ secrets.ARCHIVE_ACCESS_KEY }}"
           ARCHIVE_SECRET_KEY: "${{ secrets.ARCHIVE_SECRET_KEY }}"
@@ -31,6 +31,7 @@ jobs:
         if: env.changes_detected == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
+          token: "${{ secrets.FRAMEWIKI_BOT_TOKEN }}"
           branch: wikibot
           base: main
           commit-message: Automated changes by Wikibot
